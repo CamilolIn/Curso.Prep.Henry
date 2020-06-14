@@ -1,0 +1,18 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo
+ estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu
+  comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+RESPUESTAS: 
+
+* CICLO FOR:
+El ciclo for es una estructura de control que ejecuta cierta acción dependiendo de un valor que limita sus iteraciones.
+El ciclo for se utiliza principalmente para ejecutar tareas repetitivas, de esta manera logramos que nuestro código se
+mas liviano y eficiente.
+
+* OPERADORES LOGICOS
+Los operadores lógicos son símbolos que nos permiten comparar dos valores como lo hacemos con los operadores matemáticos.
+La diferencia es que estos usas tipos de datos Booleanos, de esta forma su resultado siempre será falso o verdadero.
+
