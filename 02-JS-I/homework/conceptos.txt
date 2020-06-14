@@ -1,0 +1,43 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Variables
+	* Strings
+	* Funciones (argumentos, `return`)
+	* Declaraciones `if`
+	* Valores booleanos (`true`, `false`)
+
+RESPUESTAS:
+
+1.	VARIABLES: 
+Es un elemento donde se guardan o almacenan datos en un programa. El valor de estos datos, podrán ser 
+cambiados en algún momento, de aquí su nombre variable. Las variables se utilizan para: Guardar datos y 
+estados, asignar Valores de una variable a otra etc. Las variables tienen como principal característica 
+que deben ser de un tipo de dato específico, como un número, booleanos u objetos.
+
+2.	STRINGS
+Los strings son tipos de datos que representan cadenas de textos. Dichos tipos de datos deben ir declarados
+entre comillas dobles o sencillas. 
+ EJEMPLO:
+var nombre = “Camilo Lindarte”
+
+3.	FUNCIONES
+Las funciones son pedazos de código que ejecutan una tarea en específico dentro del código general. Las funciones
+son usadas para resumir acciones en pequeños bloques de códigos que se repartirán a lo largo del programa. 
+Las funciones pueden recibir argumentos o parámetros que permiten a la función usarlos dentro de su bloque de
+código para ejecutar la acción. Para ejecutar la función, basta con escribir el nombre de la función junto a 
+sus paréntesis vacíos en caso de que no reciba parámetros en cualquier parte del código.
+Ejemplo:
+Función holamundo(str){
+	return str
+}
+Holamundo(“Hola Camilo”)
+
+4.	DECLARACIONES IF
+Las declaraciones if son estructuras de control que permiten evaluar una condición y ejecutar una acción respecto
+a la misma. Básicamente se utiliza para evaluar una expresión condicional: si se cumple la condición (es verdadera),
+ejecutará un bloque de código. Si es falsa, es posible ejecutar otras sentencias.
+
+5.	VALORES BOOLEANOS
+Los valores Booleanos son tipos de datos que representan estados verdaderos o falsos; Estos en términos de computación
+o electrónica se traducen en 1 (uno = verdadero )o 0 (cero = falso )
+
